@@ -1,0 +1,2 @@
+# outlier_detective
+The aim of the project is to develop a platform using machine learning techniques that takes a test log file as input, learns the basic format and should be able to indicate that some logs are anomalous. Some of the objectives are: 1. Process incoming logs in CEF, syslog, key-value format, API. 2. To employ unsupervised ML and detect outliers in log stream. 3. Studying adversary behaviour as per MITRE framework and applying them to detect anomalous user and entity behaviour. 4. To act as feed forward for other detection and response platform
