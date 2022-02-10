@@ -44,3 +44,37 @@ The aim of the project is to develop a platform using machine learning technique
 ## Block Diagram
 
 ![Untitled drawing](https://user-images.githubusercontent.com/46192583/153341600-8edf75ac-3da4-4df1-82e7-702b81ed2143.jpg)
+
+![Untitled drawing (2)](https://user-images.githubusercontent.com/46192583/153342952-dcf32d6b-2e6b-44f3-b70b-433ea160eded.jpg)
+
+## Libraries Used
+
+● Pandas 
+● Numpy
+● Tensorflow
+● Scikit Learn 
+● Pyod 
+● Pycef
+● Drain
+● Joblib
+● Python 3.7
+● ElasticSearch
+● Kibana
+● Jupyter Notebook
+
+## Conclusion
+
+1. Demonstrated how to detect outliers in the log streams of different log formats.
+2. Cyber security analysts can use this algorithm for finding irregularities in the different log streams.
+3. Found out different methods to parse different formats of log files. 
+4. Various visualizations can be used in kibana lens to show the behaviour of the log streams.
+
+## Future Scope 
+
+1. This algorithm can be used in the distribution systems in power plants, to monitor log activity of the PLCs inthe power distribution system. Certain custom libraries are required to be written for brand specific PLCs
+2. With the help of some javascript libraries, this algorithm can be used in multi-user environments. 
+
+## Output
+
+![Untitled drawing (3)](https://user-images.githubusercontent.com/46192583/153343085-b89a1c7b-8888-49d1-ae27-71243692037e.jpg)
+
